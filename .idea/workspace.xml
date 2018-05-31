@@ -14,11 +14,26 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-              <folding>
-                <element signature="n#div#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="312">
+              <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../html5up-read-only/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="2603" column="39" lean-forward="true" selection-start-line="2603" selection-start-column="39" selection-end-line="2603" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="2605" column="31" lean-forward="true" selection-start-line="2605" selection-start-column="31" selection-end-line="2605" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -40,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -54,7 +69,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-42" />
     <option name="y" value="60" />
     <option name="width" value="1382" />
@@ -182,12 +197,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527732887431</updated>
       <workItem from="1527732904221" duration="115000" />
-      <workItem from="1527733040053" duration="2107000" />
+      <workItem from="1527733040053" duration="3011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2222000" />
+    <option name="totallyTimeSpent" value="3126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -230,13 +245,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#div#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -284,13 +293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8675">
-          <caret line="2608" column="21" lean-forward="true" selection-start-line="2608" selection-start-column="21" selection-end-line="2608" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../html5up-read-only/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-342">
@@ -298,13 +300,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../html5up-read-only/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="2603" column="39" lean-forward="true" selection-start-line="2603" selection-start-column="39" selection-end-line="2603" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="2605" column="31" lean-forward="true" selection-start-line="2605" selection-start-column="31" selection-end-line="2605" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-          <folding>
-            <element signature="n#div#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
         </state>
       </provider>
     </entry>
