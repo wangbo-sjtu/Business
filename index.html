@@ -22,13 +22,35 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+		
+<script type="text/javascript">
+            function showTime(){
+                var time=new Date();//获取当前系统的时间
+                var y=time.getFullYear();//获得4位的年
+                var m=time.getMonth()+1;//月份（0-11）
+                var l=m<10?"0"+m:m;//将得到的月份数中小于10的月份表示为两位（01,02）
+                var d=time.getDate();//得到天数
+                var h=time.getHours();//获得小时数
+                var s1=time.getMinutes();//分钟数
+                var s=time.getSeconds()>9?time.getSeconds():"0"+time.getSeconds();//将秒数小于10的处理为两位
+//alert(time);
+//alert(y+m+d+h+s1+s);
+                var t=y+"-"+l+"-"+d+" "+h+":"+s1+":"+s;//格式得到的系统时间
+                var b=document.getElementById("div1");//根据id获取页面上的一个元素对象
+                b.innerHTML="<font color=green>"+t+"</font>";//将格式化的时间写到div中
+                setTimeout(showTime,1000);//动态更新时间
+
+            }
+</script>
 
 
-
-</head>
-	<body>
+	</head>
+	<body onload="showTime()">
 
 		<!-- Header -->
+		<div id="div1">yyyy-MM-dd hh:mm:ss</div>
+
+
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
