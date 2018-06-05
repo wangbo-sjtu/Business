@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-行政事务部业务更新
-
-=======
 # Business-Changes
-This repository shows the summary of business changes in the Department of Administration.
->>>>>>> 1f7a8659ca2c47e487b876f6c591133fe04fc24b
+本网页是学生事务中心行政事务部显示业务更新的网站，旨在帮助部员更好地完成值班工作。<br>
+目前有临时业务、长期业务、老师介绍和日常疑问四个板块。拟调整为更加适合的样式，使得同类业务分块化。<br>
