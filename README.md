@@ -14,11 +14,3 @@
 -----
 电话：021-54740799 021-54743561  
 email：swzxxzb@163.com
-
-```
-gantt
-dateFormat YYYY-MM-DD
-title 进度甘特图
-section 问卷确认阶段
-项目确定：done，des1，2015-06-01，2015-06-06
-```
