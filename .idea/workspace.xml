@@ -36,7 +36,7 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="131" />
+          <entry key="HTML" value="132" />
           <entry key="Markdown" value="812" />
         </counts>
       </usages-collector>
@@ -48,7 +48,7 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="131" />
+          <entry key="html" value="132" />
           <entry key="md" value="812" />
         </counts>
       </usages-collector>
@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7562">
-              <caret line="514" column="16" lean-forward="true" selection-start-line="514" selection-start-column="16" selection-end-line="514" selection-end-column="16" />
+            <state relative-caret-position="304">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="n#script#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -191,13 +191,13 @@
         <option value="$PROJECT_DIR$/test" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/affairs.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ministers/ministers.html" />
         <option value="$PROJECT_DIR$/ministers/model_minister.html" />
         <option value="$PROJECT_DIR$/biographies/yezhongchang.html" />
         <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/newindex.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -207,7 +207,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
     <option name="y" value="3" />
     <option name="width" value="1295" />
@@ -240,7 +240,7 @@
     <property name="SearchEverywhereHistoryKey" value="banner&#9;null&#9;null&#10;bonner&#9;null&#9;null&#10;three&#9;null&#9;null&#10;two&#9;null&#9;null&#10;wrapper&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535380940486" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535381174986" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -321,12 +321,12 @@
       <workItem from="1532790328553" duration="2426000" />
       <workItem from="1533132994615" duration="51000" />
       <workItem from="1535257931824" duration="7467000" />
-      <workItem from="1535376086640" duration="2150000" />
+      <workItem from="1535376086640" duration="2503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61479000" />
+    <option name="totallyTimeSpent" value="61832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -488,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7562">
-          <caret line="514" column="16" lean-forward="true" selection-start-line="514" selection-start-column="16" selection-end-line="514" selection-end-column="16" />
+        <state relative-caret-position="304">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
