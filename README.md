@@ -9,7 +9,7 @@
 
 概述  
 -----
-[本网站](https://wangbo-sjtu.github.io/Business-Changes/)为上海交通大学学生事务中心[行政事务部](xingzhengbu.group)的业务网站，主体为部门手册，其他重要内容有业务变动和部门历史等。
+    [本网站](https://wangbo-sjtu.github.io/Business-Changes/)为上海交通大学学生事务中心[行政事务部](xingzhengbu.group)的业务网站，主体为部门手册，其他重要内容有业务变动和部门历史等。
 
 阅读指南  
 -----
